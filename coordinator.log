@@ -175,3 +175,163 @@
 2024-10-11 15:20:04,189 - INFO - Received data from ('127.0.0.1', 57746) at 2024-10-11 15:20:04.189116 and forwarding to server 127.0.0.1:9002
 2024-10-11 15:20:04,197 - INFO - Sent response to ('127.0.0.1', 57746) from server 127.0.0.1:9002 at 2024-10-11 15:20:04.197796
 2024-10-11 15:20:04,197 - INFO - Connection with ('127.0.0.1', 57746) closed at 2024-10-11 15:20:04.197796, duration: 0:00:00.008680
+2024-10-13 09:50:13,142 - INFO - Coordinator started on port 8000
+2024-10-13 09:50:36,304 - INFO - Received connection from ('127.0.0.1', 49901) at 2024-10-13 09:50:36.304317
+2024-10-13 09:50:36,305 - INFO - Received connection from ('127.0.0.1', 49902) at 2024-10-13 09:50:36.305319
+2024-10-13 09:50:36,305 - INFO - Received data from ('127.0.0.1', 49901) at 2024-10-13 09:50:36.305319 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:50:36,305 - INFO - Received connection from ('127.0.0.1', 49903) at 2024-10-13 09:50:36.305319
+2024-10-13 09:50:36,305 - INFO - Received data from ('127.0.0.1', 49902) at 2024-10-13 09:50:36.305319 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:50:36,306 - INFO - Received connection from ('127.0.0.1', 49905) at 2024-10-13 09:50:36.306316
+2024-10-13 09:50:36,307 - INFO - Received connection from ('127.0.0.1', 49907) at 2024-10-13 09:50:36.307317
+2024-10-13 09:50:36,307 - INFO - Sent response to ('127.0.0.1', 49901) from server 127.0.0.1:9001 at 2024-10-13 09:50:36.307317
+2024-10-13 09:50:36,307 - INFO - Received data from ('127.0.0.1', 49905) at 2024-10-13 09:50:36.307317 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:50:36,308 - INFO - Connection with ('127.0.0.1', 49901) closed at 2024-10-13 09:50:36.308316, duration: 0:00:00.002997
+2024-10-13 09:50:36,308 - INFO - Sent response to ('127.0.0.1', 49902) from server 127.0.0.1:9002 at 2024-10-13 09:50:36.308316
+2024-10-13 09:50:36,308 - INFO - Received data from ('127.0.0.1', 49907) at 2024-10-13 09:50:36.308316 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:50:36,308 - INFO - Sent response to ('127.0.0.1', 49905) from server 127.0.0.1:9001 at 2024-10-13 09:50:36.308316
+2024-10-13 09:50:36,308 - INFO - Connection with ('127.0.0.1', 49902) closed at 2024-10-13 09:50:36.308316, duration: 0:00:00.002997
+2024-10-13 09:50:36,309 - INFO - Connection with ('127.0.0.1', 49905) closed at 2024-10-13 09:50:36.309317, duration: 0:00:00.002000
+2024-10-13 09:50:36,309 - INFO - Sent response to ('127.0.0.1', 49907) from server 127.0.0.1:9002 at 2024-10-13 09:50:36.309317
+2024-10-13 09:50:36,309 - INFO - Connection with ('127.0.0.1', 49907) closed at 2024-10-13 09:50:36.309317, duration: 0:00:00.002000
+2024-10-13 09:50:38,325 - ERROR - Failed to forward request to 127.0.0.1:9003: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-10-13 09:50:38,325 - INFO - Connection with ('127.0.0.1', 49903) closed at 2024-10-13 09:50:38.325953, duration: 0:00:02.019637
+2024-10-13 09:51:41,187 - INFO - Received connection from ('127.0.0.1', 49941) at 2024-10-13 09:51:41.187820
+2024-10-13 09:51:41,187 - INFO - Received connection from ('127.0.0.1', 49940) at 2024-10-13 09:51:41.187820
+2024-10-13 09:51:41,188 - INFO - Received connection from ('127.0.0.1', 49942) at 2024-10-13 09:51:41.188820
+2024-10-13 09:51:41,188 - INFO - Received data from ('127.0.0.1', 49940) at 2024-10-13 09:51:41.188820 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:51:41,188 - INFO - Received data from ('127.0.0.1', 49941) at 2024-10-13 09:51:41.188820 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:51:41,189 - INFO - Received connection from ('127.0.0.1', 49943) at 2024-10-13 09:51:41.189819
+2024-10-13 09:51:41,189 - INFO - Received data from ('127.0.0.1', 49942) at 2024-10-13 09:51:41.189819 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:51:41,190 - INFO - Sent response to ('127.0.0.1', 49940) from server 127.0.0.1:9001 at 2024-10-13 09:51:41.189819
+2024-10-13 09:51:41,190 - INFO - Received connection from ('127.0.0.1', 49944) at 2024-10-13 09:51:41.190819
+2024-10-13 09:51:41,190 - INFO - Connection with ('127.0.0.1', 49940) closed at 2024-10-13 09:51:41.190819, duration: 0:00:00.002999
+2024-10-13 09:51:41,191 - INFO - Sent response to ('127.0.0.1', 49942) from server 127.0.0.1:9002 at 2024-10-13 09:51:41.190819
+2024-10-13 09:51:41,190 - INFO - Sent response to ('127.0.0.1', 49941) from server 127.0.0.1:9003 at 2024-10-13 09:51:41.190819
+2024-10-13 09:51:41,191 - INFO - Received data from ('127.0.0.1', 49944) at 2024-10-13 09:51:41.191819 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:51:41,191 - INFO - Received connection from ('127.0.0.1', 49945) at 2024-10-13 09:51:41.191819
+2024-10-13 09:51:41,190 - INFO - Received data from ('127.0.0.1', 49943) at 2024-10-13 09:51:41.190819 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:51:41,191 - INFO - Connection with ('127.0.0.1', 49941) closed at 2024-10-13 09:51:41.191819, duration: 0:00:00.003999
+2024-10-13 09:51:41,191 - INFO - Connection with ('127.0.0.1', 49942) closed at 2024-10-13 09:51:41.191819, duration: 0:00:00.002000
+2024-10-13 09:51:41,191 - INFO - Sent response to ('127.0.0.1', 49944) from server 127.0.0.1:9001 at 2024-10-13 09:51:41.191819
+2024-10-13 09:51:41,192 - INFO - Connection with ('127.0.0.1', 49944) closed at 2024-10-13 09:51:41.192819, duration: 0:00:00.002000
+2024-10-13 09:51:41,192 - INFO - Received connection from ('127.0.0.1', 49946) at 2024-10-13 09:51:41.192819
+2024-10-13 09:51:41,192 - INFO - Received data from ('127.0.0.1', 49945) at 2024-10-13 09:51:41.192819 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:51:41,193 - INFO - Sent response to ('127.0.0.1', 49943) from server 127.0.0.1:9003 at 2024-10-13 09:51:41.192819
+2024-10-13 09:51:41,193 - INFO - Sent response to ('127.0.0.1', 49945) from server 127.0.0.1:9002 at 2024-10-13 09:51:41.193819
+2024-10-13 09:51:41,193 - INFO - Connection with ('127.0.0.1', 49943) closed at 2024-10-13 09:51:41.193819, duration: 0:00:00.003000
+2024-10-13 09:51:41,193 - INFO - Connection with ('127.0.0.1', 49945) closed at 2024-10-13 09:51:41.193819, duration: 0:00:00.002000
+2024-10-13 09:51:41,193 - INFO - Received data from ('127.0.0.1', 49946) at 2024-10-13 09:51:41.193819 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:51:41,194 - INFO - Sent response to ('127.0.0.1', 49946) from server 127.0.0.1:9003 at 2024-10-13 09:51:41.194819
+2024-10-13 09:51:41,194 - INFO - Connection with ('127.0.0.1', 49946) closed at 2024-10-13 09:51:41.194819, duration: 0:00:00.002000
+2024-10-13 09:51:41,698 - INFO - Received connection from ('127.0.0.1', 49949) at 2024-10-13 09:51:41.698417
+2024-10-13 09:51:41,698 - INFO - Received connection from ('127.0.0.1', 49947) at 2024-10-13 09:51:41.698417
+2024-10-13 09:51:41,698 - INFO - Received data from ('127.0.0.1', 49949) at 2024-10-13 09:51:41.698417 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:51:41,698 - INFO - Received data from ('127.0.0.1', 49947) at 2024-10-13 09:51:41.698417 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:51:41,699 - INFO - Received connection from ('127.0.0.1', 49948) at 2024-10-13 09:51:41.699418
+2024-10-13 09:51:41,699 - INFO - Sent response to ('127.0.0.1', 49949) from server 127.0.0.1:9001 at 2024-10-13 09:51:41.699418
+2024-10-13 09:51:41,699 - INFO - Received data from ('127.0.0.1', 49948) at 2024-10-13 09:51:41.699418 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:51:41,700 - INFO - Connection with ('127.0.0.1', 49949) closed at 2024-10-13 09:51:41.700418, duration: 0:00:00.002001
+2024-10-13 09:51:41,700 - INFO - Sent response to ('127.0.0.1', 49947) from server 127.0.0.1:9002 at 2024-10-13 09:51:41.699418
+2024-10-13 09:51:41,700 - INFO - Connection with ('127.0.0.1', 49947) closed at 2024-10-13 09:51:41.700418, duration: 0:00:00.002001
+2024-10-13 09:51:41,700 - INFO - Sent response to ('127.0.0.1', 49948) from server 127.0.0.1:9003 at 2024-10-13 09:51:41.700418
+2024-10-13 09:51:41,700 - INFO - Connection with ('127.0.0.1', 49948) closed at 2024-10-13 09:51:41.700418, duration: 0:00:00.001000
+2024-10-13 09:52:43,412 - INFO - Received connection from ('127.0.0.1', 49986) at 2024-10-13 09:52:43.411317
+2024-10-13 09:52:43,412 - INFO - Received connection from ('127.0.0.1', 49987) at 2024-10-13 09:52:43.412319
+2024-10-13 09:52:43,412 - INFO - Received connection from ('127.0.0.1', 49988) at 2024-10-13 09:52:43.412319
+2024-10-13 09:52:43,413 - INFO - Received data from ('127.0.0.1', 49986) at 2024-10-13 09:52:43.413319 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,413 - INFO - Received data from ('127.0.0.1', 49987) at 2024-10-13 09:52:43.413319 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,414 - INFO - Received connection from ('127.0.0.1', 49989) at 2024-10-13 09:52:43.414318
+2024-10-13 09:52:43,414 - INFO - Received data from ('127.0.0.1', 49988) at 2024-10-13 09:52:43.414318 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,415 - INFO - Received connection from ('127.0.0.1', 49990) at 2024-10-13 09:52:43.414318
+2024-10-13 09:52:43,415 - INFO - Received data from ('127.0.0.1', 49989) at 2024-10-13 09:52:43.415317 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,415 - INFO - Sent response to ('127.0.0.1', 49986) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.415317
+2024-10-13 09:52:43,415 - INFO - Sent response to ('127.0.0.1', 49987) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.415317
+2024-10-13 09:52:43,415 - INFO - Connection with ('127.0.0.1', 49986) closed at 2024-10-13 09:52:43.415317, duration: 0:00:00.002998
+2024-10-13 09:52:43,415 - INFO - Connection with ('127.0.0.1', 49987) closed at 2024-10-13 09:52:43.415317, duration: 0:00:00.002998
+2024-10-13 09:52:43,416 - INFO - Received connection from ('127.0.0.1', 49991) at 2024-10-13 09:52:43.416322
+2024-10-13 09:52:43,416 - INFO - Sent response to ('127.0.0.1', 49988) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.416322
+2024-10-13 09:52:43,417 - INFO - Sent response to ('127.0.0.1', 49989) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.417320
+2024-10-13 09:52:43,417 - INFO - Connection with ('127.0.0.1', 49988) closed at 2024-10-13 09:52:43.417320, duration: 0:00:00.003002
+2024-10-13 09:52:43,417 - INFO - Received connection from ('127.0.0.1', 49994) at 2024-10-13 09:52:43.417320
+2024-10-13 09:52:43,417 - INFO - Received data from ('127.0.0.1', 49990) at 2024-10-13 09:52:43.417320 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,417 - INFO - Connection with ('127.0.0.1', 49989) closed at 2024-10-13 09:52:43.417320, duration: 0:00:00.003002
+2024-10-13 09:52:43,418 - INFO - Received data from ('127.0.0.1', 49991) at 2024-10-13 09:52:43.418318 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,418 - INFO - Sent response to ('127.0.0.1', 49990) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.418318
+2024-10-13 09:52:43,418 - INFO - Received connection from ('127.0.0.1', 49999) at 2024-10-13 09:52:43.418318
+2024-10-13 09:52:43,418 - INFO - Sent response to ('127.0.0.1', 49991) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.418318
+2024-10-13 09:52:43,418 - INFO - Connection with ('127.0.0.1', 49990) closed at 2024-10-13 09:52:43.418318, duration: 0:00:00.001996
+2024-10-13 09:52:43,418 - INFO - Received data from ('127.0.0.1', 49994) at 2024-10-13 09:52:43.418318 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,419 - INFO - Connection with ('127.0.0.1', 49991) closed at 2024-10-13 09:52:43.419319, duration: 0:00:00.001999
+2024-10-13 09:52:43,419 - INFO - Received data from ('127.0.0.1', 49999) at 2024-10-13 09:52:43.419319 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,420 - INFO - Sent response to ('127.0.0.1', 49994) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.420317
+2024-10-13 09:52:43,420 - INFO - Connection with ('127.0.0.1', 49994) closed at 2024-10-13 09:52:43.420317, duration: 0:00:00.001999
+2024-10-13 09:52:43,420 - INFO - Sent response to ('127.0.0.1', 49999) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.420317
+2024-10-13 09:52:43,420 - INFO - Connection with ('127.0.0.1', 49999) closed at 2024-10-13 09:52:43.420317, duration: 0:00:00.000998
+2024-10-13 09:52:43,914 - INFO - Received connection from ('127.0.0.1', 49995) at 2024-10-13 09:52:43.914059
+2024-10-13 09:52:43,914 - INFO - Received connection from ('127.0.0.1', 50060) at 2024-10-13 09:52:43.914059
+2024-10-13 09:52:43,915 - INFO - Received data from ('127.0.0.1', 49995) at 2024-10-13 09:52:43.915040 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,915 - INFO - Received connection from ('127.0.0.1', 50061) at 2024-10-13 09:52:43.915040
+2024-10-13 09:52:43,916 - INFO - Sent response to ('127.0.0.1', 49995) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.915040
+2024-10-13 09:52:43,916 - INFO - Connection with ('127.0.0.1', 49995) closed at 2024-10-13 09:52:43.916039, duration: 0:00:00.001980
+2024-10-13 09:52:43,916 - INFO - Received connection from ('127.0.0.1', 49993) at 2024-10-13 09:52:43.916039
+2024-10-13 09:52:43,916 - INFO - Received data from ('127.0.0.1', 50060) at 2024-10-13 09:52:43.916039 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,916 - INFO - Received data from ('127.0.0.1', 50061) at 2024-10-13 09:52:43.916039 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,917 - INFO - Received connection from ('127.0.0.1', 49996) at 2024-10-13 09:52:43.917039
+2024-10-13 09:52:43,917 - INFO - Received data from ('127.0.0.1', 49993) at 2024-10-13 09:52:43.917039 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,917 - INFO - Sent response to ('127.0.0.1', 50061) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.917039
+2024-10-13 09:52:43,917 - INFO - Sent response to ('127.0.0.1', 50060) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.917039
+2024-10-13 09:52:43,917 - INFO - Connection with ('127.0.0.1', 50061) closed at 2024-10-13 09:52:43.917039, duration: 0:00:00.001999
+2024-10-13 09:52:43,917 - INFO - Connection with ('127.0.0.1', 50060) closed at 2024-10-13 09:52:43.917039, duration: 0:00:00.001999
+2024-10-13 09:52:43,918 - INFO - Received connection from ('127.0.0.1', 49992) at 2024-10-13 09:52:43.918039
+2024-10-13 09:52:43,918 - INFO - Sent response to ('127.0.0.1', 49993) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.918039
+2024-10-13 09:52:43,918 - INFO - Connection with ('127.0.0.1', 49993) closed at 2024-10-13 09:52:43.918039, duration: 0:00:00.001000
+2024-10-13 09:52:43,918 - INFO - Received connection from ('127.0.0.1', 49998) at 2024-10-13 09:52:43.918039
+2024-10-13 09:52:43,919 - INFO - Received data from ('127.0.0.1', 49996) at 2024-10-13 09:52:43.919040 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,919 - INFO - Received data from ('127.0.0.1', 49992) at 2024-10-13 09:52:43.919040 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,919 - INFO - Received connection from ('127.0.0.1', 50065) at 2024-10-13 09:52:43.919040
+2024-10-13 09:52:43,919 - INFO - Received data from ('127.0.0.1', 49998) at 2024-10-13 09:52:43.919040 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,920 - INFO - Sent response to ('127.0.0.1', 49996) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.920040
+2024-10-13 09:52:43,920 - INFO - Connection with ('127.0.0.1', 49996) closed at 2024-10-13 09:52:43.920040, duration: 0:00:00.002001
+2024-10-13 09:52:43,920 - INFO - Received connection from ('127.0.0.1', 50066) at 2024-10-13 09:52:43.920040
+2024-10-13 09:52:43,920 - INFO - Received data from ('127.0.0.1', 50065) at 2024-10-13 09:52:43.920040 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,920 - INFO - Sent response to ('127.0.0.1', 49992) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.920040
+2024-10-13 09:52:43,921 - INFO - Connection with ('127.0.0.1', 49992) closed at 2024-10-13 09:52:43.921041, duration: 0:00:00.003002
+2024-10-13 09:52:43,921 - INFO - Received connection from ('127.0.0.1', 50067) at 2024-10-13 09:52:43.921041
+2024-10-13 09:52:43,921 - INFO - Sent response to ('127.0.0.1', 49998) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.921041
+2024-10-13 09:52:43,921 - INFO - Received data from ('127.0.0.1', 50066) at 2024-10-13 09:52:43.921041 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:43,921 - INFO - Sent response to ('127.0.0.1', 50065) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.921041
+2024-10-13 09:52:43,921 - INFO - Connection with ('127.0.0.1', 49998) closed at 2024-10-13 09:52:43.921041, duration: 0:00:00.002001
+2024-10-13 09:52:43,922 - INFO - Received connection from ('127.0.0.1', 49997) at 2024-10-13 09:52:43.922040
+2024-10-13 09:52:43,922 - INFO - Connection with ('127.0.0.1', 50065) closed at 2024-10-13 09:52:43.922040, duration: 0:00:00.002000
+2024-10-13 09:52:43,922 - INFO - Received data from ('127.0.0.1', 50067) at 2024-10-13 09:52:43.922040 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:52:43,923 - INFO - Sent response to ('127.0.0.1', 50066) from server 127.0.0.1:9002 at 2024-10-13 09:52:43.923040
+2024-10-13 09:52:43,923 - INFO - Connection with ('127.0.0.1', 50066) closed at 2024-10-13 09:52:43.923040, duration: 0:00:00.001999
+2024-10-13 09:52:43,923 - INFO - Received data from ('127.0.0.1', 49997) at 2024-10-13 09:52:43.923040 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:52:43,923 - INFO - Sent response to ('127.0.0.1', 50067) from server 127.0.0.1:9003 at 2024-10-13 09:52:43.923040
+2024-10-13 09:52:43,924 - INFO - Connection with ('127.0.0.1', 50067) closed at 2024-10-13 09:52:43.924040, duration: 0:00:00.002999
+2024-10-13 09:52:43,924 - INFO - Sent response to ('127.0.0.1', 49997) from server 127.0.0.1:9001 at 2024-10-13 09:52:43.924040
+2024-10-13 09:52:43,924 - INFO - Connection with ('127.0.0.1', 49997) closed at 2024-10-13 09:52:43.924040, duration: 0:00:00.001000
+2024-10-13 09:52:44,414 - INFO - Received connection from ('127.0.0.1', 50064) at 2024-10-13 09:52:44.414468
+2024-10-13 09:52:44,414 - INFO - Received data from ('127.0.0.1', 50064) at 2024-10-13 09:52:44.414468 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:52:44,415 - INFO - Sent response to ('127.0.0.1', 50064) from server 127.0.0.1:9002 at 2024-10-13 09:52:44.415468
+2024-10-13 09:52:44,415 - INFO - Connection with ('127.0.0.1', 50064) closed at 2024-10-13 09:52:44.415468, duration: 0:00:00.001000
+2024-10-13 09:53:02,193 - INFO - Received connection from ('127.0.0.1', 50090) at 2024-10-13 09:53:02.193900
+2024-10-13 09:53:02,193 - INFO - Received connection from ('127.0.0.1', 50091) at 2024-10-13 09:53:02.193900
+2024-10-13 09:53:02,194 - INFO - Received data from ('127.0.0.1', 50090) at 2024-10-13 09:53:02.194899 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:53:02,195 - INFO - Received connection from ('127.0.0.1', 50092) at 2024-10-13 09:53:02.195899
+2024-10-13 09:53:02,195 - INFO - Received data from ('127.0.0.1', 50091) at 2024-10-13 09:53:02.195899 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:53:02,195 - INFO - Received connection from ('127.0.0.1', 50093) at 2024-10-13 09:53:02.195899
+2024-10-13 09:53:02,196 - INFO - Sent response to ('127.0.0.1', 50090) from server 127.0.0.1:9003 at 2024-10-13 09:53:02.195899
+2024-10-13 09:53:02,196 - INFO - Connection with ('127.0.0.1', 50090) closed at 2024-10-13 09:53:02.196899, duration: 0:00:00.002999
+2024-10-13 09:53:02,196 - INFO - Sent response to ('127.0.0.1', 50091) from server 127.0.0.1:9001 at 2024-10-13 09:53:02.196899
+2024-10-13 09:53:02,196 - INFO - Received connection from ('127.0.0.1', 50094) at 2024-10-13 09:53:02.196899
+2024-10-13 09:53:02,196 - INFO - Connection with ('127.0.0.1', 50091) closed at 2024-10-13 09:53:02.196899, duration: 0:00:00.001000
+2024-10-13 09:53:02,196 - INFO - Received data from ('127.0.0.1', 50093) at 2024-10-13 09:53:02.196899 and forwarding to server 127.0.0.1:9003
+2024-10-13 09:53:02,197 - INFO - Received data from ('127.0.0.1', 50092) at 2024-10-13 09:53:02.197899 and forwarding to server 127.0.0.1:9002
+2024-10-13 09:53:02,197 - INFO - Received data from ('127.0.0.1', 50094) at 2024-10-13 09:53:02.197899 and forwarding to server 127.0.0.1:9001
+2024-10-13 09:53:02,197 - INFO - Sent response to ('127.0.0.1', 50092) from server 127.0.0.1:9002 at 2024-10-13 09:53:02.197899
+2024-10-13 09:53:02,198 - INFO - Connection with ('127.0.0.1', 50092) closed at 2024-10-13 09:53:02.198899, duration: 0:00:00.003000
+2024-10-13 09:53:02,198 - INFO - Sent response to ('127.0.0.1', 50093) from server 127.0.0.1:9003 at 2024-10-13 09:53:02.198899
+2024-10-13 09:53:02,198 - INFO - Connection with ('127.0.0.1', 50093) closed at 2024-10-13 09:53:02.198899, duration: 0:00:00.002000
+2024-10-13 09:53:02,199 - INFO - Sent response to ('127.0.0.1', 50094) from server 127.0.0.1:9001 at 2024-10-13 09:53:02.199901
+2024-10-13 09:53:02,199 - INFO - Connection with ('127.0.0.1', 50094) closed at 2024-10-13 09:53:02.199901, duration: 0:00:00.002002

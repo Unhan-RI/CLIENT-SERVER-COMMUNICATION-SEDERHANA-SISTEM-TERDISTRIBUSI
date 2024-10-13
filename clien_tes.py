@@ -5,7 +5,7 @@ import time
 # Konfigurasi host dan port server coordinator
 coordinator_host = '127.0.0.1'
 coordinator_port = 8000
-NUM_CLIENTS = 50  # Jumlah klien yang diuji
+NUM_CLIENTS = 5  # Jumlah klien yang diuji
 
 # Variabel untuk mencatat waktu mulai dan selesai setiap klien
 start_times = []
